@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Black Queen connected to whatsapp ✅')
 
-let up = `connected successful ✅\n\nPREFIX: ${prefix}`;
+let up = `connected successful ✅<br>\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/vX31j64/BLACK-QUEEN.png` }, caption: up })
 
