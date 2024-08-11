@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Black Queen connected to whatsapp ✅')
 
-let up = `connected successful ✅<br>\n\nPREFIX: ${prefix}`;
+let up = `> *connected successful ✅*\n\n*👸🏻BLACK QUEEN 🖤🪄*\n*create by Arosh Samuditha*\n\n🔖අපගේ අනෙකුත් Updates ගැන දැනගැනීමට පහත link වෙත පිවිසෙන්න 🔗\n\n*+ Cool Art Graphic🔗*\n> https://chat.whatsapp.com/FRsIjml10CWAX7NAPF7xIb\n*+ Black Queen Bot Group🔗*\n> https://chat.whatsapp.com/IT6mjqGINN6LaLSKnTZd6r\n*+ FaceBook🔗*\n> https://www.facebook.com/profile.php?id=61550302625124&mibextid=ZbWKwL\n\n> *COOL ART GRAPHIC BY AROSH SAMUDITHA*\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/vX31j64/BLACK-QUEEN.png` }, caption: up })
 
