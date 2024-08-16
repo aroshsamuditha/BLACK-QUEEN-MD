@@ -10,16 +10,6 @@
       "description": "Put the session-id here.",
       "required": true
     },  
-
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
-      "required": false
-    },
-    
-    "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
-      "required": false
-    }   
 },
      "buildpacks": [
         {
