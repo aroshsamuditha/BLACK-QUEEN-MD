@@ -20,6 +20,6 @@
 
 ## **Contact Black Queen Developers**
 
-| <a href="https://wa.me/94761676948?text=*Hi,+Arosh💜✨*"><img src="https://i.ibb.co/T0TZC2q/My-github-png-rownd.png" width=150 height=150></a> | <a href="https://www.facebook.com/profile.php?id=61550302625124&mibextid=ZbWKwL"><img src="https://i.ibb.co/0h5d6Y3/Whats-App-Image-2024-08-11-at-11-14-41-PM.jpg" width=150 height=150></a> |
+| <a href="https://wa.me/94761676948?text=*Hi,+Arosh💜✨*"><img src="https://i.ibb.co/8cRMJrJ/My-github-png.png" width=150 height=150></a> | <a href="https://www.facebook.com/profile.php?id=61550302625124&mibextid=ZbWKwL"><img src="https://i.ibb.co/0h5d6Y3/Whats-App-Image-2024-08-11-at-11-14-41-PM.jpg" width=150 height=150></a> |
 |---|---|
 | **[Arosh Samuditha](https://wa.me/94761676948?text=*Hi,+Arosh💜✨*)**</br>Developer</br>**[CREATIVE DEVIL💜🪄]** | **[Cool Art Graphic](https://www.facebook.com/profile.php?id=61550302625124&mibextid=ZbWKwL)**</br>Graphic Design ||
