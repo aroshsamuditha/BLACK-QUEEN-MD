@@ -14,7 +14,7 @@
 
 **[𒃯 Join Coor art group](https://chat.whatsapp.com/FRsIjml10CWAX7NAPF7xIb)**
 
-### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://wa.me/94761676948)
+### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD&template=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD.git)
 
 ## **Contact Black Queen Developers**
 
