@@ -18,7 +18,7 @@ let desc = `
 your bot
 
 title: ${data.title}
-description ${data.description}
+description: ${data.description}
 time: ${data.time}
 ago: ${data.ago}
 views: ${data.views}
