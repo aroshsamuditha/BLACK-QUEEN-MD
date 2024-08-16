@@ -18,7 +18,8 @@
     
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
-      "required": "*ඉන්නව ඉනවා තාම පණපිටින් 💭✅* *👸🏻BLACK QUEEN 🖤🪄* `create by Arosh Samuditha` ```Contact Owner:-``` https://wa.me/94761676948?text=*Hellow+Arosh+😁🩷*"
+      "required": true
+      "value": "_*I'm Bringing your video*_ ✨➾🔎"
     }   
 },
      "buildpacks": [
