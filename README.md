@@ -14,8 +14,7 @@
 
 **[𒃯 Join Coor art group](https://chat.whatsapp.com/FRsIjml10CWAX7NAPF7xIb)**
 
-## Code
-**[link](https://blackqueenpd-de3893185589.herokuapp.com/)**
+### Code = <a href="https://blackqueenpd-de3893185589.herokuapp.com"><img src="https://i.ibb.co/NWpsw84/Button.png" width=123.3 heig=13.1666667></a>
 
 ### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD&template=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD.git)
 
