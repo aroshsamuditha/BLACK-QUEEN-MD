@@ -27,7 +27,7 @@ try{
   
 කැප්ශන් එක
 '
-await conn.sendMessage(from,{img:{url: data.thumbnail},caption:desc},{quoted:mek}
+await conn.sendMessage(from,{img:{url: data.thumbnail},caption:desc},{quoted:mek});
 
                        //download audio
 let download = await fg.yta(url)
@@ -71,7 +71,7 @@ try{
   
 කැප්ශන් එක
 '
-await conn.sendMessage(from,{img:{url: data.thumbnail},caption:desc},{quoted:mek}
+await conn.sendMessage(from,{img:{url: data.thumbnail},caption:desc},{quoted:mek});
 
                        //download video
 let download = await fg.ytv(url)
