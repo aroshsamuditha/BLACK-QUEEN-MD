@@ -1,14 +1,9 @@
-cmd({
-    pattern: "alive",
-    desc: "Check bot online or no.",
-    category: "main",
-    filename: __filename
-},
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
-return await conn.sendMessage(from,{mp3: {url: config.alive},caption: config.alive},{quoted: mek})
-}catch(e){
-console.log(e)
-reply(`${e}`)
-}
-})
+client.on('message', async msg => {
+    if (msg.body === '.alive') {
+        const voiceMessage = fs.readFileSync('path/to/voice/file.ogg'); // Replace with the path to your voice file
+        await client.sendMessage(msg.from, voiceMessage, { sendAudioAsVoice: true });
+    }
+});
+
+// Initialize the client
+client.initialize();
