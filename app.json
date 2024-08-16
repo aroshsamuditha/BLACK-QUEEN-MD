@@ -13,12 +13,12 @@
 
     "ALIVE_IMG": {
       "description": "Put your alive img here.",
-      "required": true
+      "required": false
     },
     
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
-      "required": true
+      "required": false
     }   
 },
      "buildpacks": [
