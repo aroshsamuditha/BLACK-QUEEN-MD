@@ -24,7 +24,7 @@ ago: ${data.ago}
 views: ${data.views}
   
 `
-await conn.sendMessage(from,{image:{url:data.thubnail},caption:desc},{quoted:mek});
+await conn.sendMessage(from,{image:{url:data.thumbnail},caption:desc},{quoted:mek});
 //download audio
 
 let down = await fg.yt(url)
