@@ -5,18 +5,18 @@
 
 **Black Queen** is a user bot for WhatsApp that allows you to do many tasks. This project mainly focuses on making the user's work easier. This project is coded with JavaScript and Docker. Also, you are not allowed to make any modifications to this project. This is our first bot and we will work on providing more updates in the future. Until then, enjoy!❤️🎀
 ⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+---
+### ※ Visit our official whatsapp group
+<a href="https://chat.whatsapp.com/IT6mjqGINN6LaLSKnTZd6r"><img src="https://i.ibb.co/f0DNbqs/buttons-BQ.png" width=186.666667 heig=81.5></a>
 
-### Visit our official whatsapp group
+### ※ You can join our Cool Art WhatsApp Group by this invite link
+<a href="https://chat.whatsapp.com/FRsIjml10CWAX7NAPF7xIb"><img src="https://i.ibb.co/VNYM8xz/ca-WP-GROUP.png" width=186.666667 heig=81.5></a>
+---
+### GET SESSION ID:
+<a href="https://blackqueenpd-de3893185589.herokuapp.com"><img src="https://i.ibb.co/NWpsw84/Button.png" width=123.3 heig=13.1666667></a>
 
-**[𒃯 Official whatsapp group](https://chat.whatsapp.com/IT6mjqGINN6LaLSKnTZd6r)**
-
-### You can join our Cool Art WhatsApp Group by this invite link
-
-**[𒃯 Join Coor art group](https://chat.whatsapp.com/FRsIjml10CWAX7NAPF7xIb)**
-
-### Code = <a href="https://blackqueenpd-de3893185589.herokuapp.com"><img src="https://i.ibb.co/NWpsw84/Button.png" width=123.3 heig=13.1666667></a>
-
-### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD&template=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD.git)
+### FOR HEROKU DEPLOYERS:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD&template=https%3A%2F%2Fgithub.com%2Faroshsamuditha%2FBLACK-QUEEN-MD.git)
 
 ## **Contact Black Queen Developers**
 
