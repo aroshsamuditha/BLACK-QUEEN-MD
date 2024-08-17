@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+const { cmd , commands } = require("../framework/zokou");
 const moment = require("moment-timezone");
 const { default: axios } = require('axios');
 const conf = require('../set');
