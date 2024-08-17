@@ -1,4 +1,4 @@
-# **👸🏻BLACK QUEEN 🖤🪄** - _A WhatsApp User Bot_
+https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=BLACK-QUEEN
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover](https://i.ibb.co/vX31j64/BLACK-QUEEN.png)
