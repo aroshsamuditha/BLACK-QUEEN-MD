@@ -15,7 +15,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*✨BLACK QUEEN💜SONG DOWNLOAD ⬇️*
+*✨BLACK-QUEEN💜SONG DOWNLOAD⬇️*
 
 > *title: ${data.title}*
 
@@ -67,7 +67,7 @@ const data = search.videos[0];
 const url = data.url
 
 let desc = `
-*✨BLACK QUEEN🩷VIDEO DOWNLOAD ⬇️*
+*✨BLACK-QUEEN🩷VIDEO DOWNLOAD⬇️*
 
 > *title: ${data.title}*
 
