@@ -21,12 +21,12 @@ let desc = `
 
 > *description: ${data.description}*
 
-*time: ${data.time}*
-=========================
-*ago: ${data.ago}*
-=========================
-*views: ${data.views}*
-=========================
+ | *⏱️time: ${data.time}*
+ | =========================
+ |*🎀ago: ${data.ago}*
+ | =========================
+ | *👁️views: ${data.views}*
+ | =========================
 
 *© ʙʟᴀᴄᴋ Qᴜᴇᴇɴ ʙʏ ᴀʀᴏꜱʜ ꜱᴀᴍᴜᴅɪᴛʜᴀ*
 `
@@ -38,7 +38,7 @@ let downloadUrl = down.dl_url
 
 //send audio + doc
 
-//await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
+await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
 await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mpeg",fileName:data.title + ".mp3",caption:"*© GENARATE BY AROSH SAMUDITHA ✅*"},{quoted:mek})
 
 
@@ -73,12 +73,12 @@ let desc = `
 
 > *description: ${data.description}*
 
-*time: ${data.time}*
-=========================
-*ago: ${data.ago}*
-=========================
-*views: ${data.views}*
-=========================
+ | *⏱️time: ${data.time}*
+ | =========================
+ |*🎀ago: ${data.ago}*
+ | =========================
+ | *👁️views: ${data.views}*
+ | =========================
 
 *© ʙʟᴀᴄᴋ Qᴜᴇᴇɴ ʙʏ ᴀʀᴏꜱʜ ꜱᴀᴍᴜᴅɪᴛʜᴀ*
 `
@@ -90,7 +90,7 @@ let downloadUrl = down.dl_url
 
 //send video + doc
 
-//await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
+await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4"},{quoted:mek})
 await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"video/mp4",fileName:data.title + ".mp4",caption:"*© GENARATE BY AROSH SAMUDITHA ✅*"},{quoted:mek})
 
   
