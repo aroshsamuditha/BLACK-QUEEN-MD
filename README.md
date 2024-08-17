@@ -1,4 +1,5 @@
 *_BLACK-QUEEN MULTIDEVICE SUPPORT WHATSAPP BOT❤️‍🔥_*
+
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover](https://i.ibb.co/vX31j64/BLACK-QUEEN.png)
