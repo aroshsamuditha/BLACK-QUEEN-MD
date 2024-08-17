@@ -21,9 +21,12 @@ let desc = `
 
 > *description: ${data.description}*
 
-```time: ${data.time}```
-```ago: ${data.ago}```
-`views: ${data.views}`
+*time: ${data.time}*
+=========================
+*ago: ${data.ago}*
+=========================
+*views: ${data.views}*
+=========================
 
 *© ʙʟᴀᴄᴋ Qᴜᴇᴇɴ ʙʏ ᴀʀᴏꜱʜ ꜱᴀᴍᴜᴅɪᴛʜᴀ*
 `
@@ -70,9 +73,12 @@ let desc = `
 
 > *description: ${data.description}*
 
-```time: ${data.time}```
-```ago: ${data.ago}```
-`views: ${data.views}`
+*time: ${data.time}*
+=========================
+*ago: ${data.ago}*
+=========================
+*views: ${data.views}*
+=========================
 
 *© ʙʟᴀᴄᴋ Qᴜᴇᴇɴ ʙʏ ᴀʀᴏꜱʜ ꜱᴀᴍᴜᴅɪᴛʜᴀ*
 `
