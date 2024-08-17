@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=BLACK-QUEEN
+*_BLACK-QUEEN MULTIDEVICE SUPPORT WHATSAPP BOT❤️‍🔥_*
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
 ![cover](https://i.ibb.co/vX31j64/BLACK-QUEEN.png)
