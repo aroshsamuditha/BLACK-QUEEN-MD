@@ -31,6 +31,7 @@ let desc = `
 *© ʙʟᴀᴄᴋ Qᴜᴇᴇɴ ʙʏ ᴀʀᴏꜱʜ ꜱᴀᴍᴜᴅɪᴛʜᴀ*
 `
 await conn.sendMessage(from,{image:{url:data.thumbnail},caption:desc},{quoted:mek});
+await conn.reply("Uplpading...");
 //download audio
 
 let down = await fg.yta(url)
