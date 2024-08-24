@@ -27,7 +27,7 @@ cmd({
 },
 async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q && !q.startsWith("https://")) return reply("give me fb url")
+        if (!q && !q.startsWith("https://")) return reply("*FB URL එකක් Comand එක සමඟ ලබාදෙන්න 👸🏻🔁...*")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/fdown?url=${q}`)
         reply("*Downloading...*")
@@ -50,7 +50,7 @@ cmd({
 },
 async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q && !q.startsWith("https://")) return reply("give me tiktok url")
+        if (!q && !q.startsWith("https://")) return reply("*TIKTOK URL එකක් Comand එක සමඟ ලබාදෙන්න 👸🏻🔁...*")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/tiktokdl?url=${q}`)
         reply("*Downloading...*")
@@ -75,7 +75,7 @@ cmd({
 },
 async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q && !q.startsWith("https://")) return reply("give me twitter url")
+        if (!q && !q.startsWith("https://")) return reply("*X URL එකක් Comand එක සමඟ ලබාදෙන්න 👸🏻🔁...*")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/twitterdl?url=${q}`)
         reply("*Downloading...*")
@@ -100,7 +100,7 @@ cmd({
 },
 async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q && !q.startsWith("https://")) return reply("give me gdrive url")
+        if (!q && !q.startsWith("https://")) return reply("*DRIVE URL එකක් Comand එක සමඟ ලබාදෙන්න 👸🏻🔁...*")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/gdrivedl?url=${q}`)
         reply("*Downloading...*")
@@ -121,7 +121,7 @@ cmd({
 },
 async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        if (!q && !q.startsWith("https://")) return reply("give me mediafire url")
+        if (!q && !q.startsWith("https://")) return reply("*MEDIAFIRE URL එකක් Comand එක සමඟ ලබාදෙන්න 👸🏻🔁...*")
         //fetch data from api  
         let data = await fetchJson(`${baseUrl}/api/mediafiredl?url=${q}`)
         reply("*Downloading...*")
