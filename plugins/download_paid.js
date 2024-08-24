@@ -13,7 +13,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*YOURBOTNAME 💚*"; // YOURBOTNAME 💚 කියන තැනට ඔයාගේ බොට්ගේ නම හරි ඔයාගෙ නම හරි දාන්න.
+const yourName = "*✨BLACK-QUEEN💚DOWNLOAD⬇️*"; // YOURBOTNAME 💚 කියන තැනට ඔයාගේ බොට්ගේ නම හරි ඔයාගෙ නම හරි දාන්න.
 
 
 
