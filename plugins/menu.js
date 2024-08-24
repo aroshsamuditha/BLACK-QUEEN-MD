@@ -9,13 +9,13 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let menu = {
-  main:"",
+  main:'',
   dounload:'',
   group: '',
   owner:'',
   convert:'',
   search:''
-};
+}:
 
   for (let i = 0; i < commands.length; i++) {
 if (commands[i].pattern && !commands[i].dontAddCommandList) {
@@ -63,6 +63,6 @@ ${menu.search}
   await conn.sendMessage(from,{text:madeMenu},{quoted:mek})
   
 }catch(e){
-  console.log(e)
+  console.log(e);
   reply(`${e}`)
 }
