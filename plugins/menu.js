@@ -25,7 +25,7 @@ menu[commands[i].category] += `.${commands[i].pattern}\n`;
 
   let madeMenu = `*හායි,${pushname} කෝමද ඉතින්...😙*
   
-  This is Black Queen Comand list 👸🏻♥️
+> *This is Black Queen Comand list 👸🏻♥️*
 ===========================
 ✘ *DOWNLOAD COMANDS ⬇️*
 
@@ -58,7 +58,7 @@ ${menu.search}
 
 ===========================
 
-© ʙʟᴀᴄᴋ Qᴜᴇᴇɴ ʙʏ ᴀʀᴏꜱʜ ꜱᴀᴍᴜᴅɪᴛʜᴀ*`
+*© ʙʟᴀᴄᴋ Qᴜᴇᴇɴ ʙʏ ᴀʀᴏꜱʜ ꜱᴀᴍᴜᴅɪᴛʜᴀ*`
 
   await conn.sendMessage(from,{text:madeMenu},{quoted:mek})
   
