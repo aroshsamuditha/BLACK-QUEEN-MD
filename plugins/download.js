@@ -131,3 +131,36 @@ async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, send
         reply(`${e}`)
     }
 })
+
+//instagram dl
+
+cmd({
+    pattern: "ig",
+    alias: ["instagram"],
+    desc: "download Instagram videos",
+    category: "download",
+    filename: __filename
+},
+async(conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        // Validate the URL
+        if (!q || !q.startsWith("https://")) {
+            return reply("*Please provide a valid Instagram URL with the command 👸🏻🔁...*");
+        }
+
+        // Fetch data from API
+        let data = await fetchJson(`${baseUrl}/api/igdown?url=${q}`);
+        reply("```Downloading Instagram Video 🔂...```");
+
+        // Send HD video
+        await conn.sendMessage(from, { video: { url: data.data.hd }, mimetype: "video/mp4", caption: `- HD\n\n ${yourName}` }, { quoted: mek });
+
+        // Send SD video
+        await conn.sendMessage(from, { video: { url: data.data.sd }, mimetype: "video/mp4", caption: `- SD \n\n ${yourName}` }, { quoted: mek });
+
+    } catch (e) {
+        console.log(e);
+        reply(`Error: ${e.message}`);
+    }
+});
+
