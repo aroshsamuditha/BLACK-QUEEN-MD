@@ -1,4 +1,4 @@
-**A JAVASCRIPT WHATSAPP BOT 🖤🎀**
+### **A JAVASCRIPT WHATSAPP BOT 🖤🎀**
 
 *A WhatsApp based third party application that provide many services with a real-time automated conversational experience.*
 
