@@ -11,6 +11,12 @@
       "required": true
     }  
 },
+   "env": {
+    "MONGODB": {
+      "description": "Put the mongodb url here.",
+      "required": true
+    }  
+},
      "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
