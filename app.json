@@ -9,14 +9,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true
-    }  
-},
-   "env": {
-    "MONGODB": {
+    },
+  "MONGODB": {
       "description": "Put the mongodb url here.",
       "required": true
     }  
 },
+  
      "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
